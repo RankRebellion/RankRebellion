@@ -1,5 +1,5 @@
-Hello World, I am Amy, pronouns are she/her
-Currently developing Tomb Defense on Unreal Engine for PC and Meta Quest
+Hello World, I am Amy and I make games ♡
+Currently studying game development and working on personal projects on the side
 
 <!---
 RankRebellion/RankRebellion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
